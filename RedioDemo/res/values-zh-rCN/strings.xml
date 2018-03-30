@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">收音机</string>
+    <string name="scan">浏览</string>
+    <string name="fm">FM</string>
+    <string name="am">AM</string>
+    <string name="mhz">MHz</string>
+    <string name="khz">kHz</string>
+    <string name="asel">自动搜台</string>
+    <string name="auto_select_popup_title">自动搜台</string>
+    <string name="auto_select_popup_content">自动搜台将会替换现有预存台</string>
+    <string name="cancel">取消</string>
+    <string name="search">搜索</string>
+    <string name="save_message">长按以保存当前电台</string>
+
+</resources>

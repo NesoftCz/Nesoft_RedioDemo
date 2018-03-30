@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#0099CC</color>
+    <color name="black">#000000</color>
+    <color name="text_focuse_blue">#03a4f4</color>
+    <color name="preset_gray">#abb1c0</color>
+    <color name="preset_invalid">#818480</color>
+    <color name="save_message_color">#5c7086</color>
+    <color name="preset_blue">#0499ef</color>
+    
+    <color name="c3_background">#FF1D1D1F</color>
+    <color name="common_white">#FFFFFF</color>
+    <color name="common_blue">#00deff</color>
+    <color name="common_font_blue">#3fa2ee</color>
+    <color name="common_black">#000000</color>
+    <color name="common_transparence">#00000000</color>
+    <color name="common_darkgray">#A9A9A9</color>
+    <color name="common_lightgray">#D3D3D3</color>
+    <color name="text_blue">#3FA2EE</color>
+    <color name="edittext_gray">#4A4E55</color>
+    <color name="citylistitem_common_background">#414149</color>
+    <color name="black_1C1E24">#1C1E24</color>
+    <color name="title_background">#191a1b</color>
+
+</resources>

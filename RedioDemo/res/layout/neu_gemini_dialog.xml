@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:id="@+id/dialog_view"
+        android:layout_width="538dp"
+        android:layout_height="330dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/neu_gemini_popup_bg"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/auto_select_title"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="6dip"
+            android:gravity="center"
+            android:text="@string/auto_select_popup_title"
+            android:textColor="@android:color/white"
+            android:textSize="26dp" />
+
+        <TextView
+            android:id="@+id/auto_select_message"
+            android:layout_width="415dp"
+            android:layout_height="171dip"
+            android:layout_marginLeft="62dp"
+            android:layout_marginTop="67dp"
+            android:gravity="center"
+            android:lineSpacingExtra="26dp"
+            android:text="@string/auto_select_popup_content"
+            android:textColor="@android:color/white"
+            android:textSize="28dp" />
+
+        <RelativeLayout
+            android:layout_width="417dp"
+            android:layout_height="67dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="238dp" >
+
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="203dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/neu_gemini_popup_btn"
+                android:text="@string/cancel"
+                android:textColor="@android:color/white"
+                android:textSize="24dp" />
+
+            <Button
+                android:id="@+id/search"
+                android:layout_width="203dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="214dp"
+                android:background="@drawable/neu_gemini_popup_btn"
+                android:text="@string/search"
+                android:textColor="@android:color/white"
+                android:textSize="24dp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

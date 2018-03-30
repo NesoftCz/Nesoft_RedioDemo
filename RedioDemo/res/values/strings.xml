@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeminiRadio</string>
+    <string name="scan">Scan</string>
+    <string name="fm">FM</string>
+    <string name="am">AM</string>
+    <string name="mhz">MHz</string>
+    <string name="khz">kHz</string>
+    <string name="asel">A.SEL</string>
+    <string name="auto_select_popup_title">Auto search</string>
+    <string name="auto_select_popup_content">Auto search will replace\nexisting stored</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string name="save_message">Long press to save the current station</string>
+
+</resources>
